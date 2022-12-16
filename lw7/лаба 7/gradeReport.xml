@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<gradeReport>
+    <date>10-06-2008</date>
+    <subject>Писм</subject>
+    <examiner>Федосенко</examiner>
+
+    <gradeList>
+        <gradeRecord id="1">
+            <number>1</number>
+            <student>Майк</student>
+            <grade>2</grade>
+        </gradeRecord>
+
+        <gradeRecord id="2">
+            <number>2</number>
+            <student>Уилл</student>
+            <grade>3</grade>
+        </gradeRecord>
+        
+        <gradeRecord id="3">
+            <number>3</number>
+            <student>Анна</student>
+            <grade>1</grade>
+        </gradeRecord>
+
+        <gradeRecord id="4">
+            <number>4</number>
+            <student>Кейтлин</student>
+            <grade>5</grade>
+        </gradeRecord>
+
+        <gradeRecord id="5">
+            <number>5</number>
+            <student>Майли</student>
+            <grade>4</grade>
+        </gradeRecord>
+    </gradeList>
+</gradeReport>
